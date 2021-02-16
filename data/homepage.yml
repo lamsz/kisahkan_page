@@ -1,0 +1,133 @@
+############################ banner ##########################
+banner:
+  enable : true
+  title : "Kisahkanlah"
+  content : "Al-Qur’anul Karim terdiri dari lebih dari sepertiganya adalah kisah. \nSepertiga kisah itulah yang telah membentuk Rasul dan para sahabat menjadi orang yang dihadirkan Allah di muka bumi sebagai kuntum khairu ummah, sebagai generasi terbaik yang pernah dihadirkan Allah di muka bumi. \nIni berarti, kisah memiliki peran yang sangat besar. Kisah mampu memberikan inspirasi, motivasi solusi, prediksi, untuk bekal kehidupan anak-anak muslim.\n\n dikutip dari Lentera Sirah Anak"
+  image : "images/banner.png"
+  # button
+  button:
+    enable : true
+    label : "Stories"
+    link : "products"
+  # demo video
+  video:
+    enable : true
+    videoURL : "https://www.youtube.com/embed/n6GF-NnkP00"
+
+########################## About ##############################
+about:
+  enable : true
+  title : "Tentang Kisahkan"
+  content : "Kisahkan adalah sebuah aplikasi yang berisi kisah - kisah Islami yang banyak mengandung hikmah dan tauladan, serta sebagai inspirasi untuk meningkatkan keimanan dan ketaqwaan. Kisahkan kami hadirkan sebagai media alternatif yang menyenangkan dalam mempelajari keindahan Islam"
+  image : "images/about.png"
+
+
+###################### Call to action ########################
+cta:
+  enable : true
+  title : "Download Kisahkan"
+  content : "Kisahkan bisa di download gratis di Google Playstore dan Apple AppStore"
+  image : "images/cta.png"
+  overlayImage : "images/cta-overlay.png"
+  button:
+    label : "Stories"
+    link : "products"
+
+######################## raw material #######################
+material:
+  enable : true
+  title : "Mengapa Kisahkan ?"
+  subtitle : "Kisahkan menghadirkan kembali kisah - kisah Islami dengan format yang berbeda dan menyenangkan. Beberapa kelebihan fitur - fitur yang dimiliki Kisahkan antara lain :"
+  materialItem:
+    # material item loop
+    - title : "Narasi"
+      image : "images/material/material-1.png"
+      content : "Dilengkapi dengan teks narasi yang sederhana dan mudah dipahami"
+      
+    # material item loop
+    - title : "Ilustrasi"
+      image : "images/material/material-2.png"
+      content : "Dilengkapi dengan gambar / ilustrasi yang menarik"
+      
+    # material item loop
+    - title : "Audio Books"
+      image : "images/material/material-3.png"
+      content : "Dilengkapi dengan suara teks / audio books (beberapa)"
+      
+    # material item loop
+    - title : "Video"
+      image : "images/material/material-4.png"
+      content : "Tersedia pilihan untuk melihat kisah dalam bentuk video (beberapa)"
+
+    # material item loop
+    - title : "Interaktif"
+      image : "images/material/material-5.png"
+      content : "Disertai aset - aset interaktif sehingga membaca kisah lebih menyenangkan (beberapa)"
+    
+    # material item loop
+    - title : "Bilingual"
+      image : "images/material/material-6.png"
+      content : "Disajikan dalam dua bahasa Inggris - Indonesia"
+
+########################### Advantage #########################
+advantage:
+  enable : true
+  title : "Kelebihan Kisahkan"
+  subtitle : "Kisahkan kami hadirkan sebagai salah satu sarana belajar yang mengandung kisah - kisah Islami yang penuh hikmah dan teladan"
+  image : "images/advantage.png"
+  advantageList:
+    # advantage list loop
+    - listItem : "Ilustrasi (visual / melihat untuk belajar)"
+    - listItem : "Audio / Video (aural / mendengar untuk belajar)"
+    - listItem : "Aset interaktif (kinestetik / interaksi untuk belajar)"
+    - listItem : "Bilingual (lingua / belajar bahasa baru)"
+ 
+
+######################## Promo Video ##########################
+video:
+  enable : true
+  title : "Fitur apa saja?"
+  content : "Anda bisa menghadirkan kisah - kisah yang baik untuk keluarga, kapan saja dan dimana saja. Berkisah sebagai penghantar tidur jadi lebih mudah dan menyenangkan"
+  videoThumb : "images/video-thumb.jpg"
+  videoURL : "https://www.youtube.com/embed/0zDe4vnfAt0"
+
+
+######################## Products #############################
+products:
+  enable : true
+  title : "Stories"
+  # product item comes from "content/products"
+
+
+########################## Testimonial ########################
+testimonial:
+  enable : true
+  title : "Apa Kata Mereka <br> Tentang Kisahkan"
+  testimonialItem:
+    # testimonial item loop
+    - name : "Alifah"
+      image : "images/clients/client-1.png" # size 100px*100px
+      designation : "SD Kelas 1"
+      content : "Aku senang membaca kisah di aplikasi Kisahkan, Ceritanya banyak, menarik. Ada gambarnya bagus - bagus, ada suaranya juga"
+      rating : "five" # rating star, one to five
+      
+    # testimonial item loop
+    - name : "Zahidah"
+      image : "images/clients/client-2.png" # size 100px*100px
+      designation : "Paud"
+      content : "Aku senang dibacakan kisah di Kisahkan, tapi kalo ndak ada yang bacakan, aku dengerin aja audio nya"
+      rating : "five" # rating star, one to five
+      
+    # # testimonial item loop
+    # - name : "john Doe"
+    #   image : "images/clients/client-3.jpg" # size 100px*100px
+    #   designation : "CEO, Dialogue Broad Band"
+    #   content : "Lorem ipsum dolor sit amet, <br> consetetur sadipscing elitr, diam <br> nonumy eirmod tempor"
+    #   rating : "five" # rating star, one to five
+      
+    # # testimonial item loop
+    # - name : "Riya Ventila"
+    #   image : "images/clients/client-2.jpg" # size 100px*100px
+    #   designation : "CEO, Dialogue Broad Band"
+    #   content : "Lorem ipsum dolor sit amet, <br> consetetur sadipscing elitr, diam <br> nonumy eirmod tempor"
+    #   rating : "four" # rating star, one to five
