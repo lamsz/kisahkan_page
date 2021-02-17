@@ -1,20 +1,20 @@
 ---
-title: "Nabi Musa dan Sapi Bani Israil"
+title: "Abdullah bin Rawahah"
 date: 2019-10-17T11:22:16+06:00
 draft: true
 
 # meta description
-description : "Kisah Nabi Musa alaihissalam dan Sapi Bani Israil"
+description : "Kisah Sahabat Abdullah bin Rawahan radiyallahuanhu"
 
 # product Price
-# price: "20.00"
+# price: "30.00"
 # priceBefore: ""
 
 # Product Short Description
-shortDescription: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut"
+shortDescription: "Kisah Sahabat Abdullah bin Rawahan radiyallahuanhu, sahabat mulia Rasulullah shallalllahu alaihi wassalam"
 
 #product ID
-productID: "3"
+productID: "7"
 
 # type must be "products"
 type: "products"
@@ -22,8 +22,8 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "images/products/covernabimusa.png"
-  # - image: "images/products/product-2.png"
+  - image: "images/products/coverabdullahbinrawahah.png"
+  # - image: "images/products/product-5.png"
   # - image: "images/products/product-3.png"
   # - image: "images/products/product-4.png"
 ---

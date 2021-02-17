@@ -43,12 +43,12 @@ disqusShortname = ""
   weight = 2
 
   [[menu.main]]
-  name = "Playstore"
+  name = "Android"
   URL = "https://play.google.com/store/apps/details?id=com.lamsz.kisahkan"
   weight = 3
 
   [[menu.main]]
-  name = "AppStore"
+  name = "iOS"
   URL = "https://www.apple.com/id/search/kisahkan"
   weight = 4
 
@@ -69,12 +69,12 @@ disqusShortname = ""
   weight = 2
 
   [[menu.footer]]
-  name = "Playstore"
+  name = "Android"
   URL = "https://play.google.com/store/apps/details?id=com.lamsz.kisahkan"
   weight = 3
 
   [[menu.footer]]
-  name = "AppStore"
+  name = "iOS"
   URL = "https://www.apple.com/id/search/kisahkan"
   weight = 4
 
@@ -133,9 +133,9 @@ copyright = "| Copyright &copy; 2019 [Gethugothemes](https://gethugothemes.com) 
   icon = "ti-youtube"
   link = "https://www.youtube.com/channel/UCE7b4n9BPEdXDe5CHttFcng/videos"
 
-  #  [[params.social]]
-  #  icon = "ti-instagram"
-  #  link = "#"
+  [[params.social]]
+  icon = "ti-instagram"
+  link = "https://www.instagram.com/kisahkan.lamsz/"
 
   #  [[params.social]]
   #  icon = "ti-pinterest"
