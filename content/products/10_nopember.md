@@ -1,5 +1,5 @@
 ---
-title: "10 Nopember 1945"
+title: "Surabaya 10 Nopember 1945"
 date: 2019-10-17T11:22:16+06:00
 draft: true
 
@@ -11,7 +11,7 @@ description : "Kisah Perjuangan Masyarakat Surabaya pada 10 Nopember 1945 yang k
 # priceBefore: "25.00"
 
 # Product Short Description
-shortDescription: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut"
+shortDescription: "Kisah Perjuangan Masyarakat Surabaya pada 10 Nopember 1945 yang kita kenal sebagai Hari Pahlawan"
 
 #product ID
 productID: "9"

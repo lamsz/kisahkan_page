@@ -26,9 +26,9 @@ about:
 cta:
   enable : true
   title : "Download Kisahkan"
-  content : "Kisahkan bisa di download gratis di Google Playstore dan Apple AppStore"
+  content : "Kisahkan bisa di download gratis, untuk Andorid (Playstore) dan untuk iOS (AppStore)"
   image : "images/cta.png"
-  overlayImage : "images/cta-overlay.png"
+  # overlayImage : "images/cta-overlay.png"
   button:
     label : "Stories"
     link : "products"
@@ -87,7 +87,7 @@ advantage:
 video:
   enable : true
   title : "Fitur apa saja?"
-  content : "Anda bisa menghadirkan kisah - kisah yang baik untuk keluarga, kapan saja dan dimana saja. Berkisah sebagai penghantar tidur jadi lebih mudah dan menyenangkan"
+  content : "Anda bisa menghadirkan kisah - kisah yang baik untuk keluarga, kapan saja dan dimana saja. Berkisah sebagai penghantar tidur jadi lebih mudah dan menyenangkan. Simak fitur dan penggunaannya pada video disamping."
   videoThumb : "images/video-thumb.jpg"
   videoURL : "https://www.youtube.com/embed/0zDe4vnfAt0"
 

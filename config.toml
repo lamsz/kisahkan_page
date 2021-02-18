@@ -1,7 +1,7 @@
 ######################## default configuration ####################
-baseURL = "https://examplesite.com"
+baseURL = "https://kisahkan.lamsz.id"
 languageCode = "en"
-title = "Hargo | Hugo Ecommerce Site"
+title = "Kisahkan | Kisah - Kisah Islami"
 theme = "hargo"
 summaryLength = "20"
 paginate = 10
@@ -43,19 +43,24 @@ disqusShortname = ""
   weight = 2
 
   [[menu.main]]
-  name = "Playstore"
+  name = "Android"
   URL = "https://play.google.com/store/apps/details?id=com.lamsz.kisahkan"
   weight = 3
 
   [[menu.main]]
-  name = "AppStore"
+  name = "iOS"
   URL = "https://www.apple.com/id/search/kisahkan"
   weight = 4
 
-  [[menu.main]]
-  name = "Contact"
-  URL = "https://www.lamsz.id/"
-  weight = 5
+  # [[menu.main]]
+  # name = "Privacy Policy"
+  # URL = "terms-conditions"
+  # weight = 5
+  
+  # [[menu.main]]
+  # name = "Contact"
+  # URL = "https://www.lamsz.id/"
+  # weight = 6
 
   ############# footer menu #############
   [[menu.footer]]
@@ -69,19 +74,29 @@ disqusShortname = ""
   weight = 2
 
   [[menu.footer]]
-  name = "Playstore"
+  name = "Android"
   URL = "https://play.google.com/store/apps/details?id=com.lamsz.kisahkan"
   weight = 3
 
   [[menu.footer]]
-  name = "AppStore"
+  name = "iOS"
   URL = "https://www.apple.com/id/search/kisahkan"
   weight = 4
 
   [[menu.footer]]
+  name = "Terms and Condition"
+  URL = "terms-conditions"
+  weight = 5
+
+  [[menu.footer]]
+  name = "Privacy Policy"
+  URL = "faq"
+  weight = 6
+
+  [[menu.footer]]
   name = "Contact"
   URL = "https://www.lamsz.id/"
-  weight = 5
+  weight = 7
 
 
 #################### default parameters ################################
@@ -133,9 +148,9 @@ copyright = "| Copyright &copy; 2019 [Gethugothemes](https://gethugothemes.com) 
   icon = "ti-youtube"
   link = "https://www.youtube.com/channel/UCE7b4n9BPEdXDe5CHttFcng/videos"
 
-  #  [[params.social]]
-  #  icon = "ti-instagram"
-  #  link = "#"
+  [[params.social]]
+  icon = "ti-instagram"
+  link = "https://www.instagram.com/kisahkan.lamsz/"
 
   #  [[params.social]]
   #  icon = "ti-pinterest"

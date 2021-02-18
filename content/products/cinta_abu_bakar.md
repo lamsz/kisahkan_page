@@ -1,20 +1,20 @@
 ---
-title: "Nabi Yunus dan Ikan Paus"
+title: "Cinta Abu Bakar"
 date: 2019-10-17T11:22:16+06:00
 draft: true
 
 # meta description
-description : "Kisah Nabi Yunus alaihissalam dan Ikan Paus"
+description : "Kisah Besarnya Cinta Abu Bakar Ash Shiddiq kepada Rasulullah shallalahu alaihi wassalam"
 
 # product Price
-# price: "40.00"
-# priceBefore: "49.00"
+# price: "20.00"
+# priceBefore: "25.00"
 
 # Product Short Description
-shortDescription: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut"
+shortDescription: "Kisah Besarnya Cinta Abu Bakar Ash Shiddiq kepada Rasulullah shallalahu alaihi wassalam, khulafaur rasyidin yang pertama"
 
 #product ID
-productID: "4"
+productID: "6"
 
 # type must be "products"
 type: "products"
@@ -22,10 +22,10 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "images/products/covernabiyunus.png"
+  - image: "images/products/covercintaabubakar.png"
   # - image: "images/products/product-2.png"
   # - image: "images/products/product-3.png"
-  # - image: "images/products/product-6.png"
+  # - image: "images/products/product-4.png"
 ---
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea 

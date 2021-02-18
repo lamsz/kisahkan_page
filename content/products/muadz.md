@@ -1,20 +1,20 @@
 ---
-title: "Al Biruni"
+title: "Muadz bin Jabal"
 date: 2019-10-17T11:22:16+06:00
 draft: true
 
 # meta description
-description : "Kisah Ilmuwan Islam Al Biruni"
+description : "Kisah Muadz bin Jabal radiyallahuanhu"
 
 # product Price
-# price: "20.00"
-# priceBefore: "25.00"
+# price: "26.00"
+# priceBefore: "29.00"
 
 # Product Short Description
-shortDescription: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut"
+shortDescription: "Kisah Muadz bin Jabal radiyallahuanhu, salah seorang sahabat mulia Rasulullah shallallahu alaihi wassalam"
 
 #product ID
-productID: "8"
+productID: "5"
 
 # type must be "products"
 type: "products"
@@ -22,9 +22,9 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "images/products/coveralbiruni.png"
+  - image: "images/products/covermuadzbinjabal.png"
   # - image: "images/products/product-2.png"
-  # - image: "images/products/product-6.png"
+  # - image: "images/products/product-3.png"
   # - image: "images/products/product-4.png"
 ---
 
