@@ -1,7 +1,7 @@
 ---
 title: "Temukan Lebih Banyak Kisah lainnya di aplikasi Kisahkan"
 date: 2019-10-17T11:22:16+06:00
-draft: true
+draft: false
 
 # meta description
 description : "Download Kisahkan sekarang untuk lebih banyak kisah"

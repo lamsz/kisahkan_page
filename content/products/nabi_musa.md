@@ -1,7 +1,7 @@
 ---
 title: "Nabi Musa dan Sapi Bani Israil"
 date: 2019-10-17T11:22:16+06:00
-draft: true
+draft: false
 
 # meta description
 description : "Kisah Nabi Musa alaihissalam dan Sapi Bani Israil"
