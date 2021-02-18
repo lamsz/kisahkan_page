@@ -1,7 +1,7 @@
 ---
 title: "Al Biruni"
 date: 2019-10-17T11:22:16+06:00
-draft: true
+draft: false
 
 # meta description
 description : "Kisah Ilmuwan Islam Al Biruni"
