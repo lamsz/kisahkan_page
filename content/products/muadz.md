@@ -1,6 +1,6 @@
 ---
 title: "Muadz bin Jabal"
-date: 2019-10-17T11:22:16+06:00
+date: 2021-01-23T11:22:16+06:00
 draft: true
 
 # meta description

@@ -1,7 +1,7 @@
 ---
 title: "Abdullah bin Rawahah"
-date: 2019-10-17T11:22:16+06:00
-draft: true
+date: 2021-01-20T11:22:16+06:00
+draft: false
 
 # meta description
 description : "Kisah Sahabat Abdullah bin Rawahan radiyallahuanhu"

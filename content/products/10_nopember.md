@@ -1,7 +1,7 @@
 ---
 title: "Surabaya 10 Nopember 1945"
-date: 2019-10-17T11:22:16+06:00
-draft: true
+date: 2021-01-19T11:22:16+06:00
+draft: false
 
 # meta description
 description : "Kisah Perjuangan Masyarakat Surabaya pada 10 Nopember 1945 yang kita kenal sebagai Hari Pahlawan"
